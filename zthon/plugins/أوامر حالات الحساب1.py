@@ -1,6 +1,6 @@
-#حقـوق_مـحمد_مطور_تيبثون
-#𝗧𝗘𝗣𝗧𝗛𝗢𝗡
-#@PPF22 .
+#حقوق_السيد
+#ALSID
+#@Syntral .
 import os
 import urllib
 
